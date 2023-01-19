@@ -6,6 +6,7 @@ Member:
 3. Dwain Hanlon Matin (B032010243)
 4. Nur Aqilah Hannan Binti Azmi (B032010260)
 
+This project is about bowling club registration and booking system. user can register into the club and booking the lane.
 
 1. If want to try login, use this tester account.
 gmail = tester@gmail.com
@@ -35,14 +36,14 @@ password = 123456
 - Aboutus.java under com.example.goldendreamsbowling
 - BookingFragment.java under LoggedInUser
 
-6. This project is about bowling club registration and booking system. user can register into the club and booking the lane and buying merchandise. the database object declared is user, booking, announcement, member
-
-7. We put two REST API in this project;
+6. We put two REST API in this project;
 a. Get Current Date Time API (coding are in below location);
 - HomePage.java under com.example.goldendreamsbowling 
 - MainInterface.java under Guest
 
 b. Maps REST API which to locate the club location (coding are in below location- MapsACtivity.java under goldendreamsbowling)
-# The maps button can be found in below;
+( The maps button can be found in below;)
 - Aboutus.java under com.example.goldendreamsbowling
 - About2.java under Guest
+
+7. We use firebase for database connection and use snapshot coding to fetch data. the database object declared is user, booking, announcement, member.
