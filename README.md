@@ -17,7 +17,6 @@ password = 123456
 3. Multiple Activity(Guest);
 - Home
 - Announcement
-- Merchandise
 - Login
 - About Us
 
@@ -26,8 +25,6 @@ password = 123456
 - Booking
 - Member
 - Announcement
-- Merchandise
-- Promotion
 - Setting
 - About Us
 - Logout
