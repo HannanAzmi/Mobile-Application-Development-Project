@@ -6,8 +6,8 @@ Video  Link Presentation: https://youtu.be/-ewf8dqyzDg
 
 Member:
 1. Muhammad Syafiq Firdaus Bin Alang Ahmad (B032010350)
-2. Nur Alia Binti Jasmy Hairuddin (B032010209)
-3. Dwain Hanlon Matin (B032010243)
+2. Nur Alia Binti Jasmy Hairuddin 
+3. Dwain Hanlon Matin 
 4. Nur Aqilah Hannan Binti Azmi (B032010260)
 
 This project is about bowling club registration and booking system. user can register into the club and booking the lane.
